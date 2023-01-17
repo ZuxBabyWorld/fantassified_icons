@@ -23,6 +23,7 @@ inference: false
 # about
 
 
+- generates icons inspired by fantasy games with mostly plain backgrounds, as seen [here](https://huggingface.co/proxima/fantassified_icons/blob/main/comparisons/euler_a_steps_vs_scale.jpg)
 - this was made with SD 1.4 
 - prompt tokens are: fantassified icon
 - check the [PDF](https://huggingface.co/proxima/fantassified_icons/blob/main/fantassified_icons_v1_handbook.pdf) for prompt structure details, ideal settings, post processing tips, etc
