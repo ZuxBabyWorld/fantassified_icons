@@ -35,6 +35,7 @@ if you enjoy this consider buying me a coffee (ノ◕ヮ◕)ノ*:・゚✧
 ----
 
 # license
+This model is licesed under a modified CreativeML OpenRAIL-M license.
 
 * Utilizing and hosting the Fantassified Icons 1.0 model and its derivatives on platforms that earn, will earn, or plan to earn revenue or donations requires prior authorization. **To request permission, please email proximasan@protonmail.com.**
 * You are permitted to host the model card and files on both commercial and non-commercial websites, apps, etc. as long as you properly credit the model by stating its full name and providing a link to the model card (https://huggingface.co/proximasan/fantassified-icons), without performing any actual inference or finetuning.
