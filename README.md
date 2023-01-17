@@ -11,6 +11,8 @@ language:
 inference: false
 ---
 
+## Fantassified Icons 1.0
+
 # examples:
 
 [<img src="https://huggingface.co/proxima/fantassified_icons/resolve/main/v1_overview.jpg">](https://huggingface.co/proxima/fantassified_icons/blob/main/v1_overview.jpg)
