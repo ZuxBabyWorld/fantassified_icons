@@ -24,9 +24,11 @@ inference: false
 
 - this was made with SD 1.4 
 - generates icons inspired by fantasy games with mostly plain backgrounds, as seen [here](https://huggingface.co/proxima/fantassified_icons/blob/main/comparisons/euler_a_steps_vs_scale.jpg)
-- prompt tokens are: fantassified icon
+- struggles with things that are not fantasy-ish/not in the dataset, like sunglasses. best with simple stuff like shields and potions
+- artist styles give mixed results. in any case they're more likely to show up when placed at the front of the prompt
+- prompt tokens are: **fantassified icon**
 - check the [PDF](https://huggingface.co/proxima/fantassified_icons/blob/main/fantassified_icons_v1_handbook.pdf) for prompt structure details, ideal settings, post processing tips, etc
-- [comparisons folder](https://huggingface.co/proxima/fantassified_icons/tree/main/comparisons) has some steps/cfg_scale plots
+- [comparisons folder](https://huggingface.co/proxima/fantassified_icons/tree/main/comparisons) has some steps/cfg_scale plots and raw examples
 
 <a href='https://huggingface.co/proxima/fantassified_icons/blob/main/icon_examples/chest_and_potion.png' target='_blank'><img height='100' style='border:0px;height:100px;' src='https://huggingface.co/proxima/fantassified_icons/resolve/main/icon_examples/chest_and_potion.png' border='0' alt='grass magic icon' />
 
