@@ -1,0 +1,46 @@
+potions:
+
+Prompt: fantassified icon, an intricate magical potion, 8k, centered
+CFG scale: 10
+Steps: 20
+Sampler: Euler a
+
+---
+
+chests:
+
+Prompt: fantassified icon, a golden chest, 8k, centered
+Negative prompt: cropped
+CFG scale: 10
+Steps: 20
+Sampler: DPM++ 2M
+
+---
+
+shields:
+
+Prompt: fantassified icon, intricate white silver shield, 8k, centered
+Negative prompt: cropped
+CFG scale: 8
+Steps: 20
+Sampler: DPM++ 2M
+
+---
+
+jewels:
+
+Prompt: fantassified icon, violet heart jewel, plain background, 8k, centered
+Negative prompt: cropped, letters, logo, watermark
+CFG scale: 8
+Steps: 20
+Sampler: DPM++ 2M
+
+---
+
+artstyle:
+
+Prompt: by Christopher Balaskas, fantassified icon, magical potion, plain background, 8k, centered
+Negative prompt: sparkle
+CFG scale: 8
+Steps: 20
+Sampler: DPM++ 2M
